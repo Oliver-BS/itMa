@@ -1,6 +1,6 @@
 
 #Vi skal endre tempraturverdiene fra Celcius til Fahrenheit.
-#From Celcius to Fahrenheit
+#From Celcius To Fahrenheit
 
 Celsius = input("Hvor mange grader celcius er det?")
 Celsius = int(Celsius)
